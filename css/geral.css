@@ -291,3 +291,11 @@ body {
     opacity: 1;
   }
 }
+
+.btc-preco {
+  background-color: #0d47a1;
+  color: white;
+  padding: .2rem .5rem;
+  font-weight: bold;
+  border-radius: 2px;
+}
