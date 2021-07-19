@@ -4,6 +4,8 @@
     <a href="https://goofy-jackson-cf456e.netlify.app/">Acessar projeto</a>
 <h3 >  
     
+![Animais-Fantásticos](https://user-images.githubusercontent.com/70078964/126239536-5040a28a-4125-4bb6-a816-6e7473ef561a.gif)
+
     
 ## Sobre 
 
